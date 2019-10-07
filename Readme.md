@@ -1,3 +1,9 @@
+# General Information
+
+The idea to start implement this project was inspired from the project https://github.com/OdysLam/thesis-master. The whole idea of that is to create
+a System that can use Edge as a Service. For example Edge devices can ask for services that they need in real time from other Edge Devices,
+using a contract that exists between them. Without using a central management. More details you can see in the link of that project. 
+This project is part of "NAM" Research group of University of Patras (http://nam.ece.upatras.gr/)
 # Exploring useful Balena Tools
 
 
